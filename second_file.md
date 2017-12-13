@@ -8,3 +8,4 @@ People |  Organizations
 Tali | Guggenheim
 Carlos | Jewish Museum
 Karen | METRO
+Dinah | NYPL
